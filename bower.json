@@ -1,0 +1,24 @@
+{
+  "name": "require-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ivan Filimonov"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sunrize531/requirejs-app-template",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "lodash": "^4.3.0",
+    "requirejs": "^2.1.22"
+  }
+}
